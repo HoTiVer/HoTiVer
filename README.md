@@ -1,6 +1,6 @@
 <h3 align="center">C# backend dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hotiver&label=Profile%20views&color=0e75b6&style=flat" alt="hotiver" /> </p>
+
 
 
 <p align="left">
