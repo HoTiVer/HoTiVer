@@ -11,7 +11,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hotiver&show_icons=true&locale=en&layout=compact" alt="hotiver" /></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hotiver/count.svg" />
-</p>
+
